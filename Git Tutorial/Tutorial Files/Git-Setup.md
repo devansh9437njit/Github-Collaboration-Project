@@ -1,7 +1,7 @@
 ### Git Setup Tutorial
 ---
 
-| [Github Collaboration](Git-Collaboration.md) | [Github Branch](Git-Branch)
+| [Github Collaboration](Git-Collaboration.md) | [Github Branch](Git-Branch.md)
 --
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-#### In this tutorial we are learn how to setup Git software? & how to connect Git remotely with Github Repoistory?
+#### In this tutorial we are learn how to download, install & setup Git software? & how to connect Git remotely with GitHub Repoistory & also learn about forking, clonning and pull requests?
 
 **At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.**
 
@@ -22,7 +22,7 @@
 ## Install Git on Windows
 
 1. Download the Git Software [Git Download](https://gitforwindows.org/)<br><br>
-![](../Images/download git.png) <br><br>
+![](../Images/download-git.png) <br><br>
 
 1. When you've successfully started the installer, you should see the **Git Setup** wizard screen. Follow the **Next** and **Finish** prompts to complete the installation. The default options are pretty sensible for most users. <br><br>
 
