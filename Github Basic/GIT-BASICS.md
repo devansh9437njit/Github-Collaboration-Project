@@ -1,4 +1,4 @@
-### Git - Define & give Examples (Commands & Terminology)
+### Git - Define with Examples (Commands & Terminology)
 ---
 **Table Content** 
 - [Repoistory](#repo)
