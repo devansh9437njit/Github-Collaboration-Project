@@ -1,4 +1,3 @@
-<a name="top"></a>
 ### Git Setup Tutorial
 ---
 
@@ -57,7 +56,9 @@ The ```git merge``` command lets you take the independent lines of development c
 Execute ```git status``` to ensure that ```HEAD``` is pointing to the correct merge-receiving branch. If needed, execute ```git checkout``` to switch to the receiving branch. In our case we will execute ```git checkout master```.
 
 #### Fetch latest remote commits
-Make sure the **receiving branch** and the **merging branch** are up-to-date with the latest remote changes. Execute ```git fetch``` to **pull** the latest remote commits. Once the fetch is completed ensure the master branch has the latest updates by executing ```git pull```.
+Make sure the **receiving branch** and the **merging branch** are up-to-date with the latest remote changes. Execute ```git fetch``` to **pull** the latest remote commits. 
+
+Once the fetch is completed ensure the master branch has the latest updates by executing ```git pull```.
 
 ```
 $ git merge <branch-name>
@@ -142,8 +143,6 @@ Once the file has been edited use ```git add merging.txt``` to stage the new mer
 $ git commit -m "Merged and resolved the conflict"
 ```
 Git will see that the conflict has been resolved and creates a new merge commit to finalize the merge.
-
-[top](#top)
 ___
 
 ([ README.md ](../../README.md))
