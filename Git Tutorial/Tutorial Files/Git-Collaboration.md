@@ -15,7 +15,7 @@
 ![](../Images/collab-setting.png) <br><br>
 1. Click on **Invite a collaborator** button under the Manage Access area.<br>
 ![](../Images/invite-collab-btn.png)<br><br>
-1. Search collaborator by using the ```username```, ```email``` address & ```Full Name``` and select under from search result.<br>
+1. Search collaborator by using the ```username```, ```email``` address & ```Full Name``` and select user under the search result.<br>
 ![](../Images/search-collab.png)<br><br>
 1. Click on **Add** Button.<br>
 ![](../Images/add-collab.png)<br><br>
