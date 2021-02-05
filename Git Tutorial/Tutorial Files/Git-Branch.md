@@ -5,7 +5,7 @@
 | [Git Setup](Git-Setup.md) | [GitHub Collaboration](Git-Collaboration.md)
 --
 <br>
-<a name="table-content"></a>
+
 **Table Content** 
 - [Git Branch](#branch)
 - [Merge Branches](#merge)
