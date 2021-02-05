@@ -74,7 +74,7 @@ For example, you can use forks to propose changes related to fixing a bug. Rathe
 
 forking the repo is successfully completed. now Keep your fork sync regularly. For regularly sync we clone this repo on our local pc.
 
-<a href"#clone"></a>
+<a name="clone"></a>
 ## Clonning a Repoistory
 
 If you haven't yet, you should first [set up Git](#setup). Don't forget to set up authentication to GitHub from Git as well.
@@ -118,7 +118,7 @@ Now, you can keep your fork synced with the upstream repository with a few Git c
 If you are hoping to contribute back to the original repository, you can send a request to the original author to pull your fork into their repository by submitting a pull request.
 
 
-<a href"#pull"></a>
+<a name="pull"></a>
 ## Requesting Pull Request
 
 1. Before pull request push your code to server using following command
