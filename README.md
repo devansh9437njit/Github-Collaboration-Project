@@ -5,7 +5,7 @@
 | Name | Position |
 |-|-|
 |**Devansh Sharma**|Team Leader|
-|**Parias**|Team Member|
+|**Paul Arias**|Team Member|
 
 <br>
 
