@@ -1,3 +1,15 @@
+commit 2efd1de5f139deb450616514fc4cd21defb4aacf
+Author: Parias <_female@njit.edu>
+Date:   Sat Feb 6 06:57:21 2021 +0500
+
+    FIX: team member name correction
+
+commit c6607aaee4b1c3c299791f2d7419370aa6c7ae7d
+Author: Parias <_female@njit.edu>
+Date:   Sat Feb 6 05:48:34 2021 +0500
+
+    TASK: updating change log file
+
 commit 2f27b14832df6d81afba34936c3a52a453630c1c
 Author: Parias <_female@njit.edu>
 Date:   Sat Feb 6 05:40:36 2021 +0500
