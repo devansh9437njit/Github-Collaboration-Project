@@ -1,4 +1,5 @@
-### Git Setup Tutorial
+<a name="top"></a>
+### Git Branch Tutorial
 ---
 
 | [Git Setup](Git-Setup.md) | [GitHub Collaboration](Git-Collaboration.md)
@@ -143,6 +144,8 @@ Once the file has been edited use ```git add merging.txt``` to stage the new mer
 $ git commit -m "Merged and resolved the conflict"
 ```
 Git will see that the conflict has been resolved and creates a new merge commit to finalize the merge.
+
+[goto top](#top)
 ___
 
 ([ README.md ](../../README.md))
