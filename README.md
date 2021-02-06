@@ -1,14 +1,16 @@
 # Github Collaboration Project
 
+### Group Members
 
-| Group Members | Position |
+| Name | Position |
 |-|-|
-|**Devansh Sharma**|Team Leader
-|**Parias**|Team Member
+|**Devansh Sharma**|Team Leader|
+|**Parias**|Team Member|
 
 <br>
+
 ### Tutorial
-[Github Basic Lecture](/Github Basic/GIT-BASICS.md) | [Github Advance Lecture](/Github Tutorial/Tutorial Files/Git-Setup.md)
+[Github Basic Lecture](/Github%20Basic/GIT-BASICS.md) | [Github Advance Lecture](Git%20Tutorial/Tutorial%20Files/Git-Setup.md)
 
 
 ---
