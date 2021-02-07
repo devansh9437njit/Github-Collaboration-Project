@@ -30,7 +30,7 @@ $ git clone https://github.com/devansh9437njit/Github-Collaboration-Project.git
 <a name="fork"></a>
 ## Fork
 A **Fork** is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
-Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. [example](../Git%20Tutorial/Tutorial%20Files/Git-Setup.md#fork-a-repository)
+Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea. 
 
 <a name="branch"></a>
 ## Branch
