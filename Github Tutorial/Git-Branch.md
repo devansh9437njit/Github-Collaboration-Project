@@ -145,7 +145,7 @@ $ git commit -m "Merged and resolved the conflict"
 ```
 Git will see that the conflict has been resolved and creates a new merge commit to finalize the merge.
 
-[goto top](#top)
+[go to top](#top)
 ___
 
 ([ README.md ](../../README.md))
