@@ -1,65 +1,65 @@
 commit 44cb42d8d973d6f829b0102d9354902f94796ba5
-Author: Paul Arias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sun Feb 7 13:15:23 2021 +0500
 
     TASK: creating new file Defines.md
 
 commit 0bcf81ec70a37a38c7c4f9f61fde01880105c4ff
-Author: Paul Arias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 15:55:05 2021 +0500
 
     TASK: crearing file Defines.md
 
 commit 13fe52a6061a526e3949f4204f44010dd7bf4ca5
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 14:56:02 2021 +0500
 
     TASK: creating & updating files
 
 commit fe0aefe1ce3a9c9719c43eecb93593118369928e
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 06:59:20 2021 +0500
 
     TASK: updating file CHANGELOG.md
 
 commit 2efd1de5f139deb450616514fc4cd21defb4aacf
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 06:57:21 2021 +0500
 
     FIX: team member name correction
 
 commit c6607aaee4b1c3c299791f2d7419370aa6c7ae7d
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 05:48:34 2021 +0500
 
     TASK: updating change log file
 
 commit 2f27b14832df6d81afba34936c3a52a453630c1c
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 05:40:36 2021 +0500
 
     FEATURE: Add all basic commands in Git-Basic.md
 
 commit 8a840d32cab3a6e04e818b165a589aca46d732bd
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 05:26:34 2021 +0500
 
     FEATURE: add goto top of the page
 
 commit c4dba7454f7de518510c70627f80bf76b592fa22
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 05:16:13 2021 +0500
 
     Fix: link issue solve
 
 commit bff9f0b048ff83e406e6f9ea827cc96f610b12e0
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 05:12:23 2021 +0500
 
     Feature: Adding table for group member & also add tutorial links
 
 commit fbb3fdb9bcd9f3d56d808a71bdc4027b6ff4128f
-Author: Parias <_female@njit.edu>
+Author: Paul Arias <parias1229@gmail.com>
 Date:   Sat Feb 6 04:55:19 2021 +0500
 
     TASK: updating team member name
