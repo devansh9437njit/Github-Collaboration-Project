@@ -1,6 +1,6 @@
 ### Git Flow - Define with Examples (Commands & Terminology)
 ---
-**Table Content** 
+**Table of Contents** 
 - [Repository](#repo)
 - [Clone](#clone)
 - [Fork](#fork)
