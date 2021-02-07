@@ -2,7 +2,7 @@
 ### Git Collaboration Tutorial
 ---
 
-[Github Branch](Git-Branch.md)
+[Go to Github Branch](Git-Branch.md)
 --
 
 #### In this tutorial we will lern how to send a collaboration request
