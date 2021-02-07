@@ -2,12 +2,12 @@
 ### Git Collaboration Tutorial
 ---
 
-| [Git Setup](Git-Setup.md) | [Github Branch](Git-Branch.md)
+[Github Branch](Git-Branch.md)
 --
 
-#### In this tutorial we are learn how to send collaboration request to another person to collaborate on project?
+#### In this tutorial we will lern how to send a collaboration request
 
-**GitHub** has become the corner stone for all things open source software. Developers love it, collaborate on it and are constantly building awesome projects through it. Apart from hosting our code, GitHub's main attraction is using it as a **collaborative** tool.
+**GitHub** has become the cornerstone for all things open source software. Developers love it, collaborate on it and are constantly building awesome projects through it. Apart from hosting our code, GitHub's main attraction is using it as a collaborative tool.
 
 ## Add Team Member
 
@@ -27,6 +27,6 @@
 
 Now he will push source code to this repo.
 
-[goto top](#top)
+[go to top](#top)
 ___
 ([ README.md ](../../README.md))
