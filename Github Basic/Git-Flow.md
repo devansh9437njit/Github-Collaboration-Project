@@ -1,7 +1,7 @@
 ### Git Flow - Define with Examples (Commands & Terminology)
 ---
 **Table Content** 
-- [Repoistory](#repo)
+- [Repository](#repo)
 - [Clone](#clone)
 - [Fork](#fork)
 - [Branch](#branch)

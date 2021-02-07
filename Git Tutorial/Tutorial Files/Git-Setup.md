@@ -8,14 +8,14 @@
 
 **Table Content** 
 - [Git Setup](#setup)
-- [Creating a Repoistory](#repo)
-- [Forking a Repoistory](#fork)
-- [Clonning a Repoistory](#clone)
+- [Creating a Repository](#repo)
+- [Forking a Repository](#fork)
+- [Clonning a Repository](#clone)
 - [Requesting Pull Request](#pull)
 
 <br>
 
-#### In this tutorial we are learn how to download, install & setup Git software? & how to connect Git remotely with GitHub Repoistory & also learn about forking, clonning and pull requests?
+#### In this tutorial we are learn how to download, install & setup Git software? & how to connect Git remotely with GitHub Repository & also learn about forking, clonning and pull requests?
 
 **At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.**
 
@@ -53,7 +53,7 @@ $ git config --global credential.helper cache
 ![](../Images/repo-name.png)<br><br>
 1. Type short description of "New-Repo", Select ```Public``` option & ignore all check options [Optional].<br><br>
 ![](../Images/repo-detail.png)<br><br>
-1. Click on **Create Repoistory** button.
+1. Click on **Create Repository** button.
 
 
 <a name="fork"></a>
@@ -76,7 +76,7 @@ For example, you can use forks to propose changes related to fixing a bug. Rathe
 forking the repo is successfully completed. now Keep your fork sync regularly. For regularly sync we clone this repo on our local pc.
 
 <a name="clone"></a>
-## Clonning a Repoistory
+## Clonning a Repository
 
 If you haven't yet, you should first [set up Git](#setup). Don't forget to set up authentication to GitHub from Git as well.
 
@@ -127,7 +127,7 @@ If you are hoping to contribute back to the original repository, you can send a 
 $ git push -u origin main
 ```
 
-1. Go to ```GitHub``` and select repoistory which you want to requesting for pull request.
+1. Go to ```GitHub``` and select repository which you want to requesting for pull request.
 1. Click on ```Pull requests``` tab.<br>
 ![](../Images/pull-req.png)<br><br>
 1. Click on ```click pull request```.<br>
