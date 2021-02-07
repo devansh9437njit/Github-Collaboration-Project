@@ -9,7 +9,7 @@
 <br>
 
 ### Tutorial
-[Github Basic Lecture](/Github%20Basic/GIT-BASICS.md)
+[Github Basic Lecture](/Github%20Basic/Definitions.md)
 
 
 ---
