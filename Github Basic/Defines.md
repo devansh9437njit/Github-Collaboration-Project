@@ -30,7 +30,7 @@ The Docker software is a service offering consists of three components:
 
 <a name="auto-test"></a>
 ## Automated Testing
-**Automated tests** is more than just a luxury for any agile software development team. It is a need, and is an essential tool for finding bugs quickly during the early phases of software development cycles. When there is a new feature that is still in development phase, developers can run automated tests and see how other parts of the system are affected by those changes.
+**Automated tests** are more than just a luxury for any agile software development team. It is a need, and is an essential tool for finding bugs quickly during the early phases of software development cycles. When there is a new feature that is still in development phase, developers can run automated tests and see how other parts of the system are affected by those changes.
 
 
 <a name="cont"></a>
