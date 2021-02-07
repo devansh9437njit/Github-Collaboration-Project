@@ -6,6 +6,7 @@
 |-|-|
 |**Devansh Sharma**|Team Leader|
 |**Paul Arias**|Team Member|
+|**Paul Arias**|Team Member
 
 <br>
 
