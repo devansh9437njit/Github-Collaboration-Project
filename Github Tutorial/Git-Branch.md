@@ -2,11 +2,11 @@
 ### Git Branch Tutorial
 ---
 
-| [Git Setup](Git-Setup.md) | [GitHub Collaboration](Git-Collaboration.md)
+[GitHub Collaboration](Git-Collaboration.md)
 --
 <br>
 
-**Table Content** 
+**Table of Contents** 
 - [Git Branch](#branch)
 - [Merge Branches](#merge)
 - [Create Merge Conflict](#merge-conflict)
@@ -14,9 +14,9 @@
 
 <br>
 
-#### In this tutorial we learn how to create branches, create merge conflict & how to solve it and in list we learn how to checkout branch?
+#### In this tutorial we will learn how to create branches, create merge conflict & how resolve them
 
-**The implementation behind Git branches is much more lightweight than other version control system models. Instead of copying files from directory to directory, Git stores a branch as a reference to a commit. In this sense, a branch represents the tip of a series of commits—it's not a container for commits. The history for a branch is extrapolated through the commit relationships.**
+**The implementation behind Git branches is much more lightweight than other version control system models. Instead of copying files from directory to directory, Git stores a branch as a reference to a commit. In this sense, a branch represents the tip of a series of commits. The history for a branch is extrapolated through the commit relationships.**
 
 <a name="branch"></a>
 ## Git Branch
@@ -51,7 +51,7 @@ $ git branch -d <branch-name>
 ## Merge Branches
 The ```git merge``` command lets you take the independent lines of development created by git branch and integrate them into a single branch.
 
-<font color=red>Before performing a merge there are a couple of preparation steps to take to ensure the merge goes smoothly.</font>
+<font color=red>Before performing a merge there are a few steps to take to ensure it goes smoothly.</font>
 
 #### Confirm the receiving branch
 Execute ```git status``` to ensure that ```HEAD``` is pointing to the correct merge-receiving branch. If needed, execute ```git checkout``` to switch to the receiving branch. In our case we will execute ```git checkout master```.
