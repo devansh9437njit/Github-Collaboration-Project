@@ -2,7 +2,7 @@
 ### Git Branch Tutorial
 ---
 
-[GitHub Collaboration](Git-Collaboration.md)
+[Go to GitHub Collaboration](Git-Collaboration.md)
 --
 <br>
 
