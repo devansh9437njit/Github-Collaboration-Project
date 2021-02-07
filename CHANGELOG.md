@@ -1,3 +1,27 @@
+commit 44cb42d8d973d6f829b0102d9354902f94796ba5
+Author: Paul Arias <_female@njit.edu>
+Date:   Sun Feb 7 13:15:23 2021 +0500
+
+    TASK: creating new file Defines.md
+
+commit 0bcf81ec70a37a38c7c4f9f61fde01880105c4ff
+Author: Paul Arias <_female@njit.edu>
+Date:   Sat Feb 6 15:55:05 2021 +0500
+
+    TASK: crearing file Defines.md
+
+commit 13fe52a6061a526e3949f4204f44010dd7bf4ca5
+Author: Parias <_female@njit.edu>
+Date:   Sat Feb 6 14:56:02 2021 +0500
+
+    TASK: creating & updating files
+
+commit fe0aefe1ce3a9c9719c43eecb93593118369928e
+Author: Parias <_female@njit.edu>
+Date:   Sat Feb 6 06:59:20 2021 +0500
+
+    TASK: updating file CHANGELOG.md
+
 commit 2efd1de5f139deb450616514fc4cd21defb4aacf
 Author: Parias <_female@njit.edu>
 Date:   Sat Feb 6 06:57:21 2021 +0500
