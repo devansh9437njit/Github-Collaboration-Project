@@ -9,7 +9,7 @@
 <br>
 
 ### Tutorial
-[Basics of Github](/Github%20Basic/Definitions.md) | [Explaining Git Flow](/Github%20Basic/Git-flow.md)
+[Basics of Github](/Github%20Basic/Definitions.md) | [Explaining Git Flow](/Github%20Basic/Git-Flow.md)
 
 
 ---
