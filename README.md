@@ -9,7 +9,7 @@
 <br>
 
 ### Tutorial
-[Github Basic Lecture](/Github%20Basic/GIT-BASICS.md) | [Github Advance Lecture](Git%20Tutorial/Tutorial%20Files/Git-Setup.md)
+[Github Basic Lecture](/Github%20Basic/GIT-BASICS.md)
 
 
 ---
