@@ -15,4 +15,4 @@
 
 
 ---
-[Change Log](CHANGELOG.md)
+[Changelog](CHANGELOG.md)
